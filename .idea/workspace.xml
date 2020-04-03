@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="db625bc0-a61b-4a69-99ad-8c2e30e6ca22" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/apicallsboss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/apicallsboss.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="92fd4381-8965-4dbd-950b-f731960b172b" name="Default Changelist" comment="" />
+>>>>>>> 42bd21cd15da057960d0242eb591a18b3874fe95
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
@@ -180,6 +185,26 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+=======
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_27" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zw8eecd8bRxdRQmctnDglBuDvA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+>>>>>>> 42bd21cd15da057960d0242eb591a18b3874fe95
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -199,6 +224,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="db625bc0-a61b-4a69-99ad-8c2e30e6ca22" name="Default Changelist" comment="" />
       <created>1578870367635</created>
       <option name="number" value="Default" />
@@ -335,5 +361,25 @@
         </settings>
       </state>
     </states>
+=======
+      <changelist id="92fd4381-8965-4dbd-950b-f731960b172b" name="Default Changelist" comment="" />
+      <created>1585738892303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585738892303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 42bd21cd15da057960d0242eb591a18b3874fe95
   </component>
 </project>

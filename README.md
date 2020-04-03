@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # APICALLSBOSS [![Flutter logo][]][flutter.dev]
 
 Chuck Norris - API Flutter Calls Tutorial Like a Boss
@@ -94,3 +95,7 @@ Information on how to get started can be found at our
 [Build status]: https://cirrus-ci.com/github/flutter/flutter/master
 [Gitter Channel]: https://badges.gitter.im/flutter/flutter.svg
 [Gitter badge]: https://gitter.im/flutter/flutter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+=======
+# ChuckNorrisJokes
+A small fun Chuck Norris facts app in Flutter using this endpoint:- "https://api.chucknorris.io/" . The app is designed by considering following points: BLOC Architecture and Project setup API calls setup Repos and BLOCS UI.
+>>>>>>> 42bd21cd15da057960d0242eb591a18b3874fe95

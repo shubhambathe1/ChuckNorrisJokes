@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sb.chucknorrisapp"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:9:5-67
+14-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:9:22-64
+15
+16    <application
+16-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:11:5-32:19
+17        android:name="io.flutter.app.FlutterApplication"
+17-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:12:9-57
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0a271e99b6771ad4a84318244d532fb7\core-1.0.0\AndroidManifest.xml:22:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:14:9-43
+21        android:label="chucknorrisapp" >
+21-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:13:9-39
+22        <activity
+22-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:15:9-26:20
+23            android:name="com.sb.chucknorrisapp.MainActivity"
+23-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:16:13-41
+24            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+24-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:19:13-163
+25            android:hardwareAccelerated="true"
+25-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:20:13-47
+26            android:launchMode="singleTop"
+26-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:17:13-43
+27            android:theme="@style/LaunchTheme"
+27-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:18:13-47
+28            android:windowSoftInputMode="adjustResize" >
+28-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:21:13-55
+29            <intent-filter>
+29-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:22:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:23:17-68
+30-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:23:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:24:17-76
+32-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34        </activity>
+35        <!--
+36             Don't delete the meta-data below.
+37             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+38        -->
+39        <meta-data
+39-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:29:9-31:33
+40            android:name="flutterEmbedding"
+40-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:30:13-44
+41            android:value="2" />
+41-->D:\FlutterProjects\chuck_norris_app\android\app\src\main\AndroidManifest.xml:31:13-30
+42    </application>
+43
+44</manifest>

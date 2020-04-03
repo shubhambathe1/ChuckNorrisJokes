@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Sun Jan 12 23:52:03 SAST 2020
 base.0=/Users/ryangodlonton-shaw/Documents/development/ChuckNorris/apicallsboss/build/app/intermediates/transforms/dexMerger/debug/0
+=======
+#Fri Apr 03 20:13:51 IST 2020
+base.0=D\:\\FlutterProjects\\chuck_norris_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+>>>>>>> 42bd21cd15da057960d0242eb591a18b3874fe95
 path.0=classes.dex
 renamed.0=classes.dex
